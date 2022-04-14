@@ -9,7 +9,8 @@
         "1d0be48d-382d-45f4-a921-48cb7074aedb": {
           "location": "ClientSideExtension.ApplicationCustomizer",
           "properties": {
-            "testMessage": "Test message"
+            "logLevel": 2,
+            "placeholderText": "Test message"
           }
         }
       }
