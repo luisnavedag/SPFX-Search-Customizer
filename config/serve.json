@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://smartterthings.sharepoint.com/SitePages/Test-Page.aspx",
+      "customActions": {
+        "1d0be48d-382d-45f4-a921-48cb7074aedb": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "searchTopBar": {
+      "pageUrl": "https://smartterthings.sharepoint.com/SitePages/Test-Page.aspx",
+      "customActions": {
+        "1d0be48d-382d-45f4-a921-48cb7074aedb": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}

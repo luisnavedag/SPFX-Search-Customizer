@@ -1,0 +1,17 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "spfx-react-search-app-customizer",
+    "libraryId": "a6e380b6-3dff-4c32-92d6-1f324d54817d",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-react-search-app-customizer",
+    "solutionShortDescription": "spfx-react-search-app-customizer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
