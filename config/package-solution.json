@@ -3,7 +3,7 @@
   "solution": {
     "name": "SPFX SmartterThings for Viva Connections",
     "id": "a6e380b6-3dff-4c32-92d6-1f324d54817d",
-    "version": "1.0.0.0",
+    "version": "1.0.0.2",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": false,
     "isDomainIsolated": false,
@@ -16,10 +16,10 @@
     },
     "metadata": {
       "shortDescription": {
-        "default": "spfx-react-search-app-customizer description"
+        "default": "SPFX SmartterThings for Viva Connections"
       },
       "longDescription": {
-        "default": "spfx-react-search-app-customizer description"
+        "default": "SPFX SmartterThings for Viva Connections"
       },
       "screenshotPaths": [],
       "videoUrl": "",

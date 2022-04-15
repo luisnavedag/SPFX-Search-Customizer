@@ -40,6 +40,6 @@ export default class SearchBoxContainer extends React.Component<ISearchBoxContai
     private handleOnSearch(v: string) {
         console.info(`Currently searching for "${v}"`);
         const url = `/_layouts/15/search.aspx?q=${v}&v=search`;
-        window.open(url);
+        window.location.href = (url);
     }
 }
